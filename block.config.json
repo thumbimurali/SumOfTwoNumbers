@@ -2,8 +2,8 @@
   "name": "SumOfTwoNumbers",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/thumbimurali/SumOfTwoNumbers.git",
+    "ssh": "git@github.com:thumbimurali/SumOfTwoNumbers.git",
     "branch": "block_SumOfTwoNumbers"
   },
   "dependencies": {
