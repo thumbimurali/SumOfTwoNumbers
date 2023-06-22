@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_SumOfTwoNumbers_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "SumOfTwoNumbers_removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "3BH5L3c7sWy2KFd2Yi7tm",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "cPqfH4YMIQFX9XHV3RMsl"
+  ]
+}

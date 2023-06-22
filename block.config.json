@@ -1,0 +1,39 @@
+{
+  "name": "SumOfTwoNumbers",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_SumOfTwoNumbers"
+  },
+  "dependencies": {
+    "SumOfTwoNumbers_removeTodo": {
+      "directory": "SumOfTwoNumbers_removeTodo"
+    },
+    "SumOfTwoNumbers_addTodo": {
+      "directory": "SumOfTwoNumbers_addTodo"
+    },
+    "SumOfTwoNumbers_listTodos": {
+      "directory": "SumOfTwoNumbers_listTodos"
+    },
+    "SumOfTwoNumbers_todoInput": {
+      "directory": "SumOfTwoNumbers_todoInput"
+    },
+    "SumOfTwoNumbers_todoItem": {
+      "directory": "SumOfTwoNumbers_todoItem"
+    },
+    "SumOfTwoNumbers_todoContainer": {
+      "directory": "SumOfTwoNumbers_todoContainer"
+    },
+    "sum": {
+      "directory": "sum"
+    }
+  },
+  "blockId": "cPqfH4YMIQFX9XHV3RMsl",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_SumOfTwoNumbers_addTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "SumOfTwoNumbers_addTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "7sA12elq802SB3J9pUEHe",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "cPqfH4YMIQFX9XHV3RMsl"
+  ]
+}

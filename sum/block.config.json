@@ -1,0 +1,20 @@
+{
+  "blockId": "UdO9G-aUgSTJedoXtNooE",
+  "name": "sum",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_sum"
+  },
+  "parentBlockIDs": [
+    "cPqfH4YMIQFX9XHV3RMsl"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

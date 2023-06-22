@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_SumOfTwoNumbers_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "SumOfTwoNumbers_listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "f5uglzNVMqkWnftxcQwm3",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "cPqfH4YMIQFX9XHV3RMsl"
+  ]
+}
